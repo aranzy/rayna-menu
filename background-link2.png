@@ -1,4 +1,9 @@
-body {
-  background: url("https://raw.githubusercontent.com/ZrooPro/SaveDat2/main/uploads/20260813_120155_038_8vq1ioy5.jpg")
-    no-repeat center center/cover;
+.link-2 {
+  background:
+    linear-gradient(
+      rgba(0, 0, 0, 0.45),
+      rgba(0, 0, 0, 0.45)
+    ),
+    url("https://raw.githubusercontent.com/ZrooPro/SaveDat2/main/uploads/20260813_120155_038_8vq1ioy5.jpg")
+    center/cover no-repeat;
 }
