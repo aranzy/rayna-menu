@@ -1,4 +1,55 @@
-<img
-  src="https://raw.githubusercontent.com/ZrooPro/SaveDat1/main/uploads/20260813_120925_749_acpbtrvr.jpg"
-  alt="WhatsApp Group V1"
+<!-- GROUP V1 -->
+<a
+  class="link-card link-1"
+  href="https://chat.whatsapp.com/JscXfKR42axCLkVGZSZA7L?s=cl&p=a&ilr=4"
+  target="_blank"
+  rel="noopener noreferrer"
 >
+  <img
+    src="https://raw.githubusercontent.com/ZrooPro/SaveDat1/main/uploads/20260813_120925_749_acpbtrvr.jpg"
+    alt="WhatsApp Group V1"
+  >
+
+  <div class="link-text">
+    <h3>WhatsApp Group V1</h3>
+    <p>Gabung ke grup Rayna V1</p>
+  </div>
+</a>
+
+
+<!-- GROUP V2 -->
+<a
+  class="link-card link-1"
+  href="https://chat.whatsapp.com/HdZWfUjZ39PB7kXIHa8Hen?s=cl&p=a&ilr=4"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  <img
+    src="https://raw.githubusercontent.com/ZrooPro/SaveDat1/main/uploads/20260813_120925_749_acpbtrvr.jpg"
+    alt="WhatsApp Group V2"
+  >
+
+  <div class="link-text">
+    <h3>WhatsApp Group V2</h3>
+    <p>Gabung ke grup Rayna V2</p>
+  </div>
+</a>
+
+
+<!-- SALURAN -->
+<a
+  class="link-card link-1"
+  href="https://whatsapp.com/channel/0029VbDA5xL2kNFl9dDEqm20"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  <img
+    src="https://raw.githubusercontent.com/ZrooPro/SaveDat1/main/uploads/20260813_120925_749_acpbtrvr.jpg"
+    alt="WhatsApp Channel"
+  >
+
+  <div class="link-text">
+    <h3>Saluran WhatsApp</h3>
+    <p>Ikuti saluran Rayna Only</p>
+  </div>
+</a>
