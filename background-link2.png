@@ -1,0 +1,4 @@
+body {
+  background: url("https://raw.githubusercontent.com/ZrooPro/SaveDat2/main/uploads/20260813_120155_038_8vq1ioy5.jpg")
+    no-repeat center center/cover;
+}
