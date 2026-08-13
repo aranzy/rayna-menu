@@ -1,1 +1,9 @@
-<img src="https://raw.githubusercontent.com/ZrooPro/SaveDat2/main/uploads/20260813_115224_701_nogt597l.jpg">
+.link-1 {
+  background:
+    linear-gradient(
+      rgba(0, 0, 0, 0.45),
+      rgba(0, 0, 0, 0.45)
+    ),
+    url("https://raw.githubusercontent.com/ZrooPro/SaveDat2/main/uploads/20260813_115224_701_nogt597l.jpg")
+    center/cover no-repeat;
+}
